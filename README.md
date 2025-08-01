@@ -12,7 +12,7 @@
 ## 👤 Developer’s Note — **Adil Sevim**
 
 **TR:**  
-Bu projeye **13 yaşımda (2021)** bir istek üzerine başlamıştım ilk sürümü birkaç gün içinde çıkardım. Elinizdeki sürüm, o dönemin mimarisini korurken **2025’te** kalite, güvenilirlik ve kullanım kolaylığı açısından kapsamlı bir gözden geçirme sürecinden geçti ve **01.08.2025** tarihinde paylaşıldı.  
+Bu projeye **13 yaşımda (2021)** bir istek üzerine başlamıştım. İlk sürümü birkaç gün içinde çıkardım. Elinizdeki sürüm, o dönemin mimarisini korurken **2025’te** kalite, güvenilirlik ve kullanım kolaylığı açısından kapsamlı bir gözden geçirme sürecinden geçti ve **01.08.2025** tarihinde paylaşıldı.  
 **Sürümler:** 2021 (v1) → 2025 (revizyon & adaptasyon)
 
 **EN:**  
@@ -237,7 +237,7 @@ def generate(prompt, max_new_tokens=200):
 ```
 .
 ├── notebooks/
-│   └── Turkish_Poetry_LLM_Ultimate_A100_Developer.ipynb
+│   └── Turkish_Poetry_LLM.ipynb
 ├── src/                      # (optional) helpers, training scripts
 ├── data/                     # raw/processed data (gitignored)
 ├── models/                   # checkpoints (use Git LFS or HF Hub)
@@ -266,16 +266,6 @@ def generate(prompt, max_new_tokens=200):
 
 ---
 
-## 🗺 Roadmap
-
-- [ ] Add **Hugging Face model card** and weight upload script  
-- [ ] Optional **QLoRA** and **gradient checkpointing** for lower-VRAM training  
-- [ ] Prompt templates for better **title/topic control**  
-- [ ] Automated **BLEU/MAUVE** style metrics (exploratory)  
-- [ ] CLI tool for quick poem generation
-
----
-
 ## 👏 Contributing
 
 PR’ler ve issue’lar hoş geldiniz. Lütfen açıklayıcı başlıklar ve kısa örnekler ekleyin. Büyük model dosyalarını yüklemeyin; HF Hub kullanın.
@@ -296,12 +286,12 @@ PR’ler ve issue’lar hoş geldiniz. Lütfen açıklayıcı başlıklar ve kı
 If you use this repository, please cite:
 
 ```bibtex
-@software{sevim2025turkishpoetryllm,
+@software{adil2021turkishpoetryllm,
   author  = {Adil Sevim},
-  title   = {Turkish Poetry LLM — GPT-2 + LoRA (A100 Optimized)},
+  title   = {Turkish Poetry LLM },
   year    = {2025},
   month   = {August},
-  url     = {https://github.com/<your-username>/turkish-poetry-llm}
+  url     = {https://github.com/AdilSevim/Turkish-Poetry-Language-Model}
 }
 ```
 
@@ -316,13 +306,13 @@ If you use this repository, please cite:
 
 ## Changelog
 
-- **2025-08-01:** Public release with developer-style notebook, A100 optimization, and LoRA pipeline.
+- **2025-08-01:** Public release with developer-style notebook and LoRA pipeline.
 
 ---
 
 ## 📬 Contact
 
 **Adil Sevim** — Developer  
-- GitHub: https://github.com/<your-username>  
+- GitHub: https://github.com/<AdilSevim>  
 - LinkedIn: https://www.linkedin.com/in/adilsevim/  
-- Email: <your-email@example.com>
+- Email: <adilsevim18@gmail.com>
