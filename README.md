@@ -272,12 +272,6 @@ You can download the trained AI model from Google Drive: [Download the model](ht
 
 ---
 
-## 👏 Contributing
-
-PR’ler ve issue’lar hoş geldiniz. Lütfen açıklayıcı başlıklar ve kısa örnekler ekleyin. Büyük model dosyalarını yüklemeyin; HF Hub kullanın.
-
----
-
 ## 📄 License
 
 - **Code:** MIT (recommended) — see [LICENSE](./LICENSE)  
