@@ -266,6 +266,12 @@ def generate(prompt, max_new_tokens=200):
 
 ---
 
+### Model Weights
+
+You can download the trained AI model from Google Drive: [Download the model](https://drive.google.com/file/d/1i6OVXh1vXFOf1CqeuhiS7n6zjH91PPgq/view?usp=drive_link).
+
+---
+
 ## 👏 Contributing
 
 PR’ler ve issue’lar hoş geldiniz. Lütfen açıklayıcı başlıklar ve kısa örnekler ekleyin. Büyük model dosyalarını yüklemeyin; HF Hub kullanın.
