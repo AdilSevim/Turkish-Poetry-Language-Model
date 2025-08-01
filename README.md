@@ -1,4 +1,4 @@
-# Turkish Poetry LLM — GPT-2 + LoRA (A100 Optimized)
+# Turkish Poetry LLM 
 
 [![Made with Transformers](https://img.shields.io/badge/Made%20with-Transformers-ffbf00.svg)](https://huggingface.co/docs/transformers/index)
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB.svg)](https://www.python.org/)
@@ -12,7 +12,7 @@
 ## 👤 Developer’s Note — **Adil Sevim**
 
 **TR:**  
-Bu projeye **13 yaşımda (2021)** bir istek üzerine başladım; ilk sürümü birkaç gün içinde çıkardım. Elinizdeki sürüm, o dönemin mimarisini korurken **2025’te** kalite, güvenilirlik ve kullanım kolaylığı açısından kapsamlı bir gözden geçirme sürecinden geçti ve **01.08.2025** tarihinde paylaşıldı.  
+Bu projeye **13 yaşımda (2021)** bir istek üzerine başlamıştım ilk sürümü birkaç gün içinde çıkardım. Elinizdeki sürüm, o dönemin mimarisini korurken **2025’te** kalite, güvenilirlik ve kullanım kolaylığı açısından kapsamlı bir gözden geçirme sürecinden geçti ve **01.08.2025** tarihinde paylaşıldı.  
 **Sürümler:** 2021 (v1) → 2025 (revizyon & adaptasyon)
 
 **EN:**  
