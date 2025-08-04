@@ -12,11 +12,11 @@
 ## 👤 Developer’s Note — **Adil Sevim**
 
 **TR:**  
-Bu projeye **13 yaşımda (2021)** bir istek üzerine başlamıştım. İlk sürümü birkaç gün içinde çıkardım. Elinizdeki sürüm, o dönemin mimarisini korurken **2025’te** kalite, güvenilirlik ve kullanım kolaylığı açısından kapsamlı bir gözden geçirme sürecinden geçti ve **01.08.2025** tarihinde paylaşıldı.  
+Bu projeye **13 yaşımda (2021)** bir online Türkçe dersinde hocamın "şiir duygu işidir" demesi üzerine başladım. İlk sürümü birkaç hafta içinde çıkardım. Elinizdeki sürüm, o dönemin mimarisini korurken **2025’te** kalite, güvenilirlik ve kullanım kolaylığı açısından kapsamlı bir gözden geçirme sürecinden geçti ve **01.08.2025** tarihinde paylaşıldı.  
 **Sürümler:** 2021 (v1) → 2025 (revizyon & adaptasyon)
 
 **EN:**  
-I began this project at **age 13 (2021)** in response to a request and produced the first version within a few days. The current release preserves the original architecture and underwent a comprehensive **2025** review for quality, reliability, and usability. Published on **01 Aug 2025**.  
+I began this project -at **age 13 (2021)**- with a teacher said "poem is a emotional work."  in online Tukish lessons and produced the first version within a few week. The current release preserves the original architecture and underwent a comprehensive **2025** review for quality, reliability, and usability. Published on **01 Aug 2025**.  
 **Versions:** 2021 (v1) → 2025 (revision & adaptation)
 
 ---
